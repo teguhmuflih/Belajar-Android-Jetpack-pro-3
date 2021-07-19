@@ -1,0 +1,2 @@
+rootProject.name = "BAJP_3_FIlm"
+include ':app'
